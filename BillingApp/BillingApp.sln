@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BillingApp", "BillingApp\BillingApp.csproj", "{592D3431-0402-4984-BF8F-A043D9DACE55}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BillingApp.Tests", "BillingApp.Tests\BillingApp.Tests.csproj", "{4945D0A6-6FCF-4348-97C6-7BCDAAD04E1D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{592D3431-0402-4984-BF8F-A043D9DACE55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{592D3431-0402-4984-BF8F-A043D9DACE55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{592D3431-0402-4984-BF8F-A043D9DACE55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{592D3431-0402-4984-BF8F-A043D9DACE55}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4945D0A6-6FCF-4348-97C6-7BCDAAD04E1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4945D0A6-6FCF-4348-97C6-7BCDAAD04E1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4945D0A6-6FCF-4348-97C6-7BCDAAD04E1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4945D0A6-6FCF-4348-97C6-7BCDAAD04E1D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D71A16D4-CE76-48DC-AFEF-2308EAAC4D02}
+	EndGlobalSection
+EndGlobal
